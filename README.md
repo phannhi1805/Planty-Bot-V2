@@ -1,4 +1,5 @@
 # Planty-Bot-V2
+Demo video: https://drive.google.com/file/d/1Pqm6aS5IHIIecwT3JiY2JOI2CJu8_f38/view?usp=sharing
 
 Overall layout:
 
